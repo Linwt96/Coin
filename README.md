@@ -1,7 +1,5 @@
 # 淘宝金币一键领取
-<a href="http://www.duoduodazhe.com/App/Web/Taobao-Coin/" target="_blank">演示页面</a>
-
-[源码下载](https://code.aliyun.com/duoduo/Taobao-Coin/repository/archive.zip?ref=master)
+<a href="http://839619782.xin/coin" target="_blank">演示页面</a>
 
 # 应用设置简要介绍
 #### 网站统计
@@ -96,9 +94,6 @@ var Pid_Window = "mm_00000000_00000000_00000000"; // 橱窗推广
 #### 版权声明
 - **版权归属**：`多多打折`
 - **官方网站**：`http://www.duoduodazhe.com/`
-- **演示页面**：`http://www.duoduodazhe.com/App/Web/Taobao-Coin/`
-- **开源地址**：`https://code.aliyun.com/duoduo/Taobao-Coin`
-- **源码下载**：`https://code.aliyun.com/duoduo/Taobao-Coin/repository/archive.zip`
 
-#### 技术支持
+# 技术支持
 - **邮箱地址**：`77518290`@`qq.com`
